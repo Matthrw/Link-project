@@ -1,0 +1,3 @@
+npm create vite@4.1.0 - another way to create a react application
+
+babeljs.io/repl - website to check the version of a react applicationcd 
